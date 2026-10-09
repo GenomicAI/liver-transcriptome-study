@@ -1,0 +1,17 @@
+"gene","module","healthy_log2CPM","true_log2FC","est_log2FC","padj"
+"COL1A1","ecm",6.3,1.3,1.67,3.5e-71
+"COL3A1","ecm",6.8,1.38,1.82,1e-74
+"THBS2","ecm",3.4,1.45,1.99,7.2e-74
+"LUM","ecm",6.3,1.22,1.47,1.5e-65
+"TREM2","inflam",2.9,1.08,1.21,2.6e-81
+"GPNMB","inflam",5.2,1.13,1.29,1.1e-100
+"CXCL10","inflam",4.3,1,1.18,1.2e-102
+"AKR1B10","lipid",3.8,1.12,1.32,1.8e-86
+"PLIN2","lipid",7.7,0.95,1.15,4e-106
+"KRT7","ductular",4,0.75,1,2.9e-27
+"SPP1","ductular",5.4,0.74,1.06,1.9e-26
+"CYP2C19","metabolic",8.3,-0.95,-0.9,1.1e-29
+"CYP1A2","metabolic",10.8,-0.98,-0.95,3.3e-40
+"CYP2E1","metabolic",13.3,-0.73,-0.68,1.6e-31
+"ALB","synthetic",16.7,-0.35,-0.33,1.7e-10
+"APOC3","synthetic",14.3,-0.33,-0.29,4.8e-08

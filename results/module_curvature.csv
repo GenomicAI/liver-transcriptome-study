@@ -1,0 +1,7 @@
+"module","genes","pct_linear_up","pct_linear_down","pct_convex","pct_concave"
+"metabolic",200,0,98,0,0
+"lipid",80,96,0,0,90
+"inflam",120,97,0,0,62
+"ecm",150,97,0,84,0
+"ductular",56,95,0,88,0
+"synthetic",60,0,97,0,50
